@@ -73,3 +73,7 @@ loaded via a namespace (and not attached):
 
 The origin input data (`csv`) has been downloaded from [databank.worldbank.org](https://databank.worldbank.org/data/reports.aspx?source=2&series=NY.GDP.MKTP.CD&country=#)
 
+### Ahiny Implementation
+Shiny application based on the scripts used in this project can be found at:
+https://datatodecision.shinyapps.io/racingbars/
+
